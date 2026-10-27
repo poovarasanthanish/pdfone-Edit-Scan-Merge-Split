@@ -1,34 +1,36 @@
 # PDF Editor
 
-Android PDF editor app.
+Modern Android PDF editor with a clean, icon-driven UI.
 
-## Features
+## ✨ Features
 
-- Merge PDF
-- Split PDF
-- Compress PDF
-- Organize Pages
-- Extract Pages
-- Crop PDF
-- Watermark
-- Page Numbering
-- Bates Numbering
-- Annotate PDF
-- Fill & Sign
-- Flatten PDF
-- Repair PDF
-- Compare PDF
-- PDF to Image / Image to PDF
-- PDF to ZIP
-- Scanner
-- AI Tools (Summarize, Chat)
-- Voice Reader
-- Metadata Editor
-- Print
-- Web to PDF
-- QR to PDF
-- Imposition
-- Premium / Settings / History
+| Icon | Feature | Description |
+|------|---------|-------------|
+| 🔗 | Merge PDF | Combine multiple PDFs into one |
+| ✂️ | Split PDF | Split by pages or ranges |
+| 🗜️ | Compress PDF | Reduce file size |
+| 📑 | Organize Pages | Reorder, rotate, delete pages |
+| 📄 | Extract Pages | Pull selected pages out |
+| ✂️ | Crop PDF | Trim page margins |
+| 💧 | Watermark | Add text/image watermarks |
+| 🔢 | Page Numbering | Add page numbers |
+| 🏷️ | Bates Numbering | Legal document numbering |
+| ✏️ | Annotate | Highlight, draw, comment |
+| ✍️ | Fill & Sign | Form filling and signatures |
+| 📦 | Flatten PDF | Lock annotations into content |
+| 🔧 | Repair PDF | Fix corrupted files |
+| ⚖️ | Compare PDF | Diff two documents |
+| 🖼️ | PDF ↔ Image | Convert in both directions |
+| 📁 | PDF to ZIP | Bundle pages as images |
+| 📷 | Scanner | Scan documents to PDF |
+| 🤖 | AI Tools | Summarize & chat with PDF |
+| 🔊 | Voice Reader | Text-to-speech for PDFs |
+| 🏷️ | Metadata Editor | Edit title, author, etc. |
+| 🖨️ | Print | Print directly |
+| 🌐 | Web to PDF | Convert web pages |
+| 📲 | QR to PDF | Generate QR codes in PDF |
+| 📐 | Imposition | Layout pages for printing |
+| 💎 | Premium | Unlock all features |
 
 ## Play Store
 
