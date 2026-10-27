@@ -32,7 +32,17 @@ Modern Android PDF editor with a clean, icon-driven UI.
 | 📐 | Imposition | Layout pages for printing |
 | 💎 | Premium | Unlock all features |
 
-## Play Store
+## 🛠️ Tech Stack
+
+- **Language:** Kotlin
+- **UI:** Jetpack Compose (Material 3)
+- **Build:** Gradle (KTS)
+- **Database:** Room
+- **Ads:** Google AdMob
+- **Backend/Config:** Firebase (Remote Config, Analytics)
+- **PDF:** PdfBox-Android / iText
+- **AI:** Gemini API
+- **Architecture:** MVVM, ViewModel, Coroutines/Flow
 
 - Direct link: https://play.google.com/store/apps/details?id=com.villagefast.pdfeditor
 - Developer account: https://play.google.com/store/apps/dev?id=VillageFast
