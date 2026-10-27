@@ -1,5 +1,7 @@
 # PDF Editor
 
+![Kotlin](https://img.shields.io/badge/Kotlin-1.9-purple) ![Compose](https://img.shields.io/badge/Jetpack%20Compose-Material%203-green) ![License](https://img.shields.io/badge/License-MIT-blue)
+
 <a href="https://play.google.com/store/apps/details?id=com.villagefast.pdfeditor"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40"></a>
 <a href="https://f-droid.org/packages/com.villagefast.pdfeditor/"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="40"></a>
 
