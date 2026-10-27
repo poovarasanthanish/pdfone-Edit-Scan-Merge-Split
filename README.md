@@ -7,6 +7,10 @@
 
 Modern Android PDF editor with a clean, icon-driven UI.
 
+## 📸 Screenshots
+
+![Home](https://via.placeholder.com/200x400?text=Home) ![Editor](https://via.placeholder.com/200x400?text=Editor) ![Tools](https://via.placeholder.com/200x400?text=Tools)
+
 ## ✨ Features
 
 | Icon | Feature | Description |
