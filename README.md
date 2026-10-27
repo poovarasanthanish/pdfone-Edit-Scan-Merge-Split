@@ -49,9 +49,6 @@ Modern Android PDF editor with a clean, icon-driven UI.
 - **AI:** Gemini API
 - **Architecture:** MVVM, ViewModel, Coroutines/Flow
 
-- Direct link: https://play.google.com/store/apps/details?id=com.villagefast.pdfeditor
-- Developer account: https://play.google.com/store/apps/dev?id=VillageFast
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
