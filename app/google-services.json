@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75480561274",
+    "project_id": "pdf-one-107aa",
+    "storage_bucket": "pdf-one-107aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75480561274:android:ad788820dab5edba8dedc3",
+        "android_client_info": {
+          "package_name": "com.villagefast.pdfeditor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFza9namGvKHo-DTg0ZvCN_TgwsEppheU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
