@@ -1,7 +1,7 @@
 # PDF Editor
 
-[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.villagefast.pdfeditor)
-[![Get it on F-Droid](https://fdroid.gitlab.io/artwork/badge/get-it-on.png)](https://f-droid.org/packages/com.villagefast.pdfeditor/)
+<a href="https://play.google.com/store/apps/details?id=com.villagefast.pdfeditor"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="40"></a>
+<a href="https://f-droid.org/packages/com.villagefast.pdfeditor/"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="40"></a>
 
 Modern Android PDF editor with a clean, icon-driven UI.
 
