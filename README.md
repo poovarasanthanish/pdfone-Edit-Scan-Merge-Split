@@ -1,5 +1,8 @@
 # PDF Editor
 
+[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.villagefast.pdfeditor)
+[![Get it on F-Droid](https://fdroid.gitlab.io/artwork/badge/get-it-on.png)](https://f-droid.org/packages/com.villagefast.pdfeditor/)
+
 Modern Android PDF editor with a clean, icon-driven UI.
 
 ## ✨ Features
@@ -47,12 +50,7 @@ Modern Android PDF editor with a clean, icon-driven UI.
 - Direct link: https://play.google.com/store/apps/details?id=com.villagefast.pdfeditor
 - Developer account: https://play.google.com/store/apps/dev?id=VillageFast
 
-## 📱 Get it on Android
-
-[![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.villagefast.pdfeditor)
-[![Get it on F-Droid](https://fdroid.gitlab.io/artwork/badge/get-it-on.png)](https://f-droid.org/packages/com.villagefast.pdfeditor/)
-
-Contributions are welcome! Please feel free to submit a Pull Request.
+5. Open a Pull Request against `main`
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
