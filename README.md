@@ -35,7 +35,10 @@ Modern Android PDF editor with a clean, icon-driven UI.
 | 🌐 | Web to PDF | Convert web pages |
 | 📲 | QR to PDF | Generate QR codes in PDF |
 | 📐 | Imposition | Layout pages for printing |
-| 💎 | Premium | Unlock all features |
+| 🌙 | Dark Mode | Light/dark themes |
+| 🌍 | Multi-language | 15+ languages |
+| 🔒 | Offline | Works without internet |
+| ☁️ | Cloud Sync | Backup & restore |
 
 ## 🛠️ Tech Stack
 
