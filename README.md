@@ -56,7 +56,12 @@ Modern Android PDF editor with a clean, icon-driven UI.
 - **AI:** Gemini API
 - **Architecture:** MVVM, ViewModel, Coroutines/Flow
 
-## 🤝 Contributing
+## 🔒 Security & Quality
+
+- Secret scanning enabled
+- Push protection enabled
+- CodeQL analysis
+- Dependabot security updates
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
